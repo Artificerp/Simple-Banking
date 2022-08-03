@@ -1,7 +1,6 @@
 # Simple-Banking with qb-managment intergration 
 
-# simple-banking used with QBCore Framework
-# All credits for this go to https://github.com/Pawsative, https://github.com/ImpulseFPS, #dmncdoucet#9721 
+# All credits for this go to https://github.com/Pawsative , https://github.com/ImpulseFPS , #dmncdoucet#9721 
 
 ###### This is by no means a leak, I talked to the original developer of simple banking and we talked about me releasing this for everyone since he is re-coding the banking and he give me his permission to release it. So huge thanks to him.
 
