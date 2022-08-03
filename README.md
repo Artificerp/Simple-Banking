@@ -1,4 +1,4 @@
-# Simple-Banking
+# Simple-Banking with qb-managment intergration 
 
 # simple-banking used with QBCore Framework
 # All credits for this go to https://github.com/Pawsative, https://github.com/ImpulseFPS, #dmncdoucet#9721 
