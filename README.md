@@ -11,6 +11,16 @@
 ### Btw qb-target events are already in the cl_bank.lua for thoes who dont use qb-target sorry but you will have to make loops your self
 ![Alt text](https://i.imgur.com/Eink1Ox.jpg "In-game screenshot")
 
+### Business account holders - account managers, now it reads from your shared for jobs and gangs, you just need to add bankmanager = true to the grade you want to have access to the bank account.
+```
+Ex.
+['4'] = {
+  name = 'Chief',
+  isboss = true,
+  bankmanager = true,
+  payment = 150
+}
+```
 
 ### Using society events to deposit money from other resources/scripts
 ```lua
