@@ -9,7 +9,7 @@
 ###### You do not need QB-moneysafe with this banking it has society coded in and only players with specific job/gang and grade can see the business and gang account
 
 ### Btw qb-target events are already in the cl_bank.lua for thoes who dont use qb-target sorry but you will have to make loops your self
-![Alt text](https://i.imgur.com/Eink1Ox.jpg "In-game screenshot")
+![Alt text](https://i.imgur.com/FV5PIQZ.png "In-game screenshot")https://i.imgur.com/FV5PIQZ.png
 
 ### Business account holders - account managers, now it reads from your shared for jobs and gangs, you just need to add ``` bankmanager = true ``` to the grade if you want to have access to the bank account.
 ```
